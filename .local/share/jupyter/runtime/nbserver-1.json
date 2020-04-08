@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/adhityakrishnan-adi_krish-cusk8k2p/",
+  "base_url": "/binder/jupyter/user/adhityakrishnan-adi_krish-hftlxcml/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "KLbAHQdHQEKtvyICXZzDeg",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/adhityakrishnan-adi_krish-cusk8k2p/"
+  "token": "Yr7vvNSbTWm4zEzka5uyUA",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/adhityakrishnan-adi_krish-hftlxcml/"
 }
